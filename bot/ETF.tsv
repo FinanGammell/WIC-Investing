@@ -1,0 +1,97 @@
+Ticker	Name	Fund Asset Class Focus	Fund Market Cap Focus	Strategy	Fund Industry Focus	Fund Geographical Focus	Maturity Band	Fund Rating Class Focus	Tot Asset (M)	Expense Ratio	Standard Deviation 1Yr	Actively Managed?
+SPY	SPDR S&P 500 ETF TRUST	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	408141.156	0.094	22.04	N
+IVV	ISHARES CORE S&P 500 ETF	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	326402.656	0.03	22.09	N
+VOO	VANGUARD S&P 500 ETF	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	312579.156	0.03	22.01	N
+VTI	VANGUARD TOTAL STOCK MKT ETF	Equity	Broad Market	Blend	N.A.	United States	N.A.	N.A.	305993.094	0.03	21.95	N
+QQQ	INVESCO QQQ TRUST SERIES 1	Equity	Large-cap	Growth	N.A.	United States	N.A.	N.A.	198268.641	0.2	28.51	N
+VTV	VANGUARD VALUE ETF	Equity	Large-cap	Value	N.A.	United States	N.A.	N.A.	101583.875	0.04	20.32	N
+VUG	VANGUARD GROWTH ETF	Equity	Large-cap	Growth	N.A.	United States	N.A.	N.A.	93329.258	0.04	27.01	N
+IWF	ISHARES RUSSELL 1000 GROWTH	Equity	Large-cap	Growth	N.A.	United States	N.A.	N.A.	70317.773	0.18	24.89	N
+VIG	VANGUARD DIVIDEND APPREC ETF	Equity	Large-cap	Value	N.A.	United States	N.A.	N.A.	67956.875	0.06	19.64	N
+IJH	ISHARES CORE S&P MIDCAP ETF	Equity	Mid-cap	Blend	N.A.	United States	N.A.	N.A.	67818.766	0.05	25.48	N
+IJR	ISHARES CORE S&P SMALL-CAP E	Equity	Small-cap	Blend	N.A.	United States	N.A.	N.A.	67374.562	0.06	26.13	N
+IWM	ISHARES RUSSELL 2000 ETF	Equity	Small-cap	Blend	N.A.	United States	N.A.	N.A.	56930.535	0.19	25.09	N
+VO	VANGUARD MID-CAP ETF	Equity	Mid-cap	Blend	N.A.	United States	N.A.	N.A.	55134.988	0.04	23.42	N
+IWD	ISHARES RUSSELL 1000 VALUE E	Equity	Large-cap	Value	N.A.	United States	N.A.	N.A.	50664.828	0.18	21.33	N
+VYM	VANGUARD HIGH DVD YIELD ETF	Equity	Large-cap	Value	N.A.	United States	N.A.	N.A.	48639.734	0.06	20.81	N
+SCHD	SCHWAB US DVD EQUITY ETF	Equity	Large-cap	Value	N.A.	United States	N.A.	N.A.	47633.57	0.06	19.68	N
+RSP	INVESCO S&P 500 EQUAL WEIGHT	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	36330.633	0.2	23.35	N
+QUAL	ISHARES MSCI USA QUALITY FAC	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	31083.43	0.15	24.02	N
+USMV	ISHARES MSCI USA MIN VOL FAC	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	28533.461	0.15	16.46	N
+JEPI	JPMORGAN EQUITY PREMIUM INCO	Equity	Broad Market	Value	N.A.	United States	N.A.	N.A.	26639.4	0.35	14.47	Y
+DGRO	ISHARES CORE DIVIDEND GROWTH	Equity	Broad Market	Blend	N.A.	United States	N.A.	N.A.	23432.83	0.08	19.86	N
+COWZ	PACER US CASH COWS 100 ETF	Equity	Broad Market	Value	N.A.	United States	N.A.	N.A.	13012.707	0.49	27.29	N
+NOBL	PROSHARES S&P 500 DIVIDEND A	Equity	Large-cap	Value	N.A.	United States	N.A.	N.A.	11348.859	0.35	21.14	N
+MOAT	VANECK MORNINGSTAR WIDE MOAT	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	10923.277	0.46	25.45	N
+MTUM	ISHARES MSCI USA MOMENTUM FA	Equity	Large-cap	Growth	N.A.	United States	N.A.	N.A.	9143.5	0.15	19.16	N
+ARKK	ARK INNOVATION ETF	Equity	Broad Market	Blend	N.A.	United States	N.A.	N.A.	8146.339	0.75	43.79	Y
+AVUV	AVANTIS US SMALL CAP VALUE	Equity	Small-cap	Value	N.A.	United States	N.A.	N.A.	5898.964	0.25	31.01	Y
+BND	VANGUARD TOTAL BOND MARKET	Fixed Income	N.A.	Aggregate	N.A.	United States	N.A.	Investment Grade BBB or higher	92981.016	0.03	9.1	N
+AGG	ISHARES CORE U.S. AGGREGATE	Fixed Income	N.A.	Aggregate	N.A.	United States	N.A.	Investment Grade BBB or higher	90798.805	0.03	9.27	N
+BNDX	VANGUARD TOTAL INTL BOND ETF	Fixed Income	N.A.	Aggregate	N.A.	International	N.A.	Investment Grade BBB or higher	49376.227	0.07	8.28	N
+VCIT	VANGUARD INT-TERM CORPORATE	Fixed Income	N.A.	Corporate	N.A.	United States	Intermediate	Investment Grade BBB or higher	39295.602	0.04	11.64	N
+TLT	ISHARES 20+ YEAR TREASURY BO	Fixed Income	N.A.	Government	N.A.	United States	Long-Term	Investment Grade A or higher	38808.281	0.15	18.05	N
+BSV	VANGUARD SHORT-TERM BOND ETF	Fixed Income	N.A.	Aggregate	N.A.	United States	Short-Term	Investment Grade BBB or higher	36718.41	0.04	4.18	N
+LQD	ISHARES IBOXX INVESTMENT GRA	Fixed Income	N.A.	Corporate	N.A.	United States	N.A.	Investment Grade BBB or higher	35151.824	0.14	14.68	N
+VCSH	VANGUARD S/T CORP BOND ETF	Fixed Income	N.A.	Corporate	N.A.	United States	Short-Term	Investment Grade BBB or higher	34855.902	0.04	5.11	N
+MUB	ISHARES NATIONAL MUNI BOND E	Fixed Income	N.A.	Municipals	N.A.	United States	N.A.	Investment Grade BBB or higher	32288.637	0.07	8.27	N
+IEF	ISHARES 7-10 YEAR TREASURY B	Fixed Income	N.A.	Government	N.A.	United States	Long-Term	Investment Grade A or higher	28999.99	0.15	10.64	N
+BIL	SPDR BLOOMBERG 1-3 MONTH T-B	Fixed Income	N.A.	Government	N.A.	United States	Ultra Short	Investment Grade A or higher	28851.029	0.135	0.43	N
+SHY	ISHARES 1-3 YEAR TREASURY BO	Fixed Income	N.A.	Government	N.A.	United States	Short-Term	Investment Grade A or higher	27868.43	0.15	2.82	N
+VTEB	VANGUARD TAX-EXEMPT BOND ETF	Fixed Income	N.A.	Municipals	N.A.	United States	Intermediate	Investment Grade BBB or higher	27251.98	0.05	8.76	N
+MBB	ISHARES MBS ETF	Fixed Income	N.A.	Mortgage-Backed	N.A.	United States	N.A.	Investment Grade A or higher	27161.418	0.04	10.16	N
+GOVT	ISHARES US TREASURY BOND ETF	Fixed Income	N.A.	Government	N.A.	United States	Intermediate	Investment Grade A or higher	26694.381	0.05	7.62	N
+JPST	JPMORGAN ULTRA-SHORT INCOME	Fixed Income	N.A.	Aggregate	N.A.	Global	Ultra Short	Investment Grade BBB or higher	24198.221	0.18	0.68	Y
+IGSB	ISHARES 1-5Y INV GRADE CORP	Fixed Income	N.A.	Corporate	N.A.	United States	Short-Term	Investment Grade BBB or higher	23373.18	0.04	4.94	N
+IUSB	ISHARES CORE TOTAL BOND ETF	Fixed Income	N.A.	Aggregate	N.A.	Global	N.A.	Investment Grade BBB or higher	22511.699	0.06	9.49	N
+VGSH	VANGUARD SHORT-TERM TREASURY	Fixed Income	N.A.	Government	N.A.	United States	Short-Term	Investment Grade A or higher	22349.67	0.04	2.79	N
+TIP	ISHARES TIPS BOND ETF	Fixed Income	N.A.	Inflation Protected	N.A.	United States	Intermediate	Investment Grade A or higher	21528.617	0.19	10.57	N
+SHV	ISHARES SHORT TREASURY BOND	Fixed Income	N.A.	Government	N.A.	United States	Ultra Short	Investment Grade A or higher	19787.529	0.15	0.58	N
+HYG	ISHARES IBOXX HIGH YLD CORP	Fixed Income	N.A.	Corporate	N.A.	United States	N.A.	High Yield	16501.67	0.48	13.84	N
+EMB	ISHARES JP MORGAN USD EMERGI	Fixed Income	N.A.	Government	N.A.	International	Intermediate	N.A.	14776.01	0.39	15.89	N
+VGT	VANGUARD INFO TECH ETF	Equity	Large-cap	Growth	Technology	United States	N.A.	N.A.	53251.133	0.1	29.8	N
+XLK	TECHNOLOGY SELECT SECT SPDR	Equity	Large-cap	Growth	Technology	United States	N.A.	N.A.	50784.117	0.1	30.64	N
+XLV	HEALTH CARE SELECT SECTOR	Equity	Large-cap	Blend	Health Care	United States	N.A.	N.A.	40402.422	0.1	15.95	N
+XLE	ENERGY SELECT SECTOR SPDR	Equity	Large-cap	Blend	Energy	United States	N.A.	N.A.	34069.004	0.1	37.41	N
+VNQ	VANGUARD REAL ESTATE ETF	Equity	Broad Market	Blend	Real Estate	United States	N.A.	N.A.	32145.061	0.12	24.55	N
+XLF	FINANCIAL SELECT SECTOR SPDR	Equity	Large-cap	Blend	Financial	United States	N.A.	N.A.	31042.051	0.1	25.97	N
+XLP	CONSUMER STAPLES SPDR	Equity	Large-cap	Blend	Consumer Staples	United States	N.A.	N.A.	17786.23	0.1	17.69	N
+XLY	CONSUMER DISCRETIONARY SELT	Equity	Large-cap	Growth	Consumer Discretionary	United States	N.A.	N.A.	16978.51	0.1	31.81	N
+VHT	VANGUARD HEALTH CARE ETF	Equity	Broad Market	Blend	Health Care	United States	N.A.	N.A.	16763.199	0.1	15.17	N
+XLI	INDUSTRIAL SELECT SECT SPDR	Equity	Large-cap	Blend	Industrials	United States	N.A.	N.A.	14678.17	0.1	24.43	N
+XLC	COMM SERV SELECT SECTOR SPDR	Equity	Large-cap	Blend	Communications	United States	N.A.	N.A.	12663.45	0.1	27.06	N
+IYW	ISHARES USTECHNOLOGY ETF	Equity	Large-cap	Growth	Technology	United States	N.A.	N.A.	12641.65	0.39	30.88	N
+SMH	VANECK SEMICONDUCTOR ETF	Equity	Large-cap	Growth	Technology	United States	N.A.	N.A.	9581.354	0.35	46.48	N
+IBB	ISHARES BIOTECHNOLOGY ETF	Equity	Broad Market	Blend	Health Care	United States	N.A.	N.A.	7717.056	0.44	17.13	N
+ITA	ISHARES U.S. AEROSPACE & DEF	Equity	Broad Market	Blend	Industrials	United States	N.A.	N.A.	5737.41	0.39	22.93	N
+PAVE	GLOBAL X US INFRASTRUCTURE	Equity	Broad Market	Blend	Thematic	United States	N.A.	N.A.	4419.568	0.47	29.65	N
+PHO	INVESCO WATER RESOURCES ETF	Equity	Broad Market	Blend	Thematic	United States	N.A.	N.A.	1976.756	0.6	22.49	N
+PBW	INVESCO WILDERHILL CLEAN ENE	Equity	Broad Market	Blend	Thematic	United States	N.A.	N.A.	707.19	0.62	45.06	N
+MSOS	ADVISORSHARES PURE US CANN	Equity	Broad Market	Growth	Thematic	United States	N.A.	N.A.	337.605	0.74	67.73	Y
+IPO	RENAISSANCE IPO ETF	Equity	Broad Market	Growth	Thematic	United States	N.A.	N.A.	167.438	0.6	27.31	N
+XLU	Utilities Select Sector SPDR Fund	Equity			Utilities	United States			15264.641	0.1	18.9	N
+ESGU	ISHARES ESG AWARE MSCI USA	Equity	Broad Market	Blend	N.A.	United States	N.A.	N.A.	14221.641	0.15	22.44	N
+ESGD	ISHARES TRUST ISHARES ESG AW	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	7427.079	0.2	24.94	N
+ESGV	VANGUARD ESG US STOCK ETF	Equity	Broad Market	Blend	N.A.	United States	N.A.	N.A.	6607.026	0.09	22.28	N
+ESGE	ISHARES INC ISHARES ESG AWAR	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	4533.127	0.25	25.55	N
+ICLN	ISHARES GLOBAL CLEAN ENERGY	Equity	Broad Market	Blend	Energy	Global	N.A.	N.A.	4394.26	0.4	29.44	N
+DSI	ISHARES MSCI KLD 400 SOCIAL	Equity	Large-cap	Blend	Thematic	United States	N.A.	N.A.	3727.245	0.25	22.34	N
+TAN	INVESCO SOLAR ETF	Equity	Broad Market	Blend	Energy	Global	N.A.	N.A.	2086.706	0.66	37.93	N
+LCTU	BLACKROCK US CARBON TR READ	Equity	Large-cap	Blend	N.A.	United States	N.A.	N.A.	1502.139	0.3	22.41	Y
+GRID	FIRST TRST NASD CL EDG SGIIF	Equity	Broad Market	Blend	Thematic	Global	N.A.	N.A.	844.744	0.7	30.11	N
+FAN	FIRST TRUST GLOBAL WIND ENER	Equity	Broad Market	Blend	Energy	Global	N.A.	N.A.	265.115	0.6	24.37	N
+VEA	VANGUARD FTSE DEVELOPED ETF	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	114404.359	0.05	24.78	N
+IEFA	ISHARES CORE MSCI EAFE ETF	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	99585.789	0.07	24.77	N
+VWO	VANGUARD FTSE EMERGING MARKE	Equity	Broad Market	Blend	N.A.	International	N.A.	N.A.	74227.367	0.08	22.46	N
+IEMG	ISHARES CORE MSCI EMERGING	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	72572.289	0.09	23.89	N
+VXUS	VANGUARD TOTAL INTL STOCK	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	57558.785	0.07	23.32	N
+EFA	ISHARES MSCI EAFE ETF	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	50264.996	0.33	24.68	N
+VEU	VANGUARD FTSE ALL-WORLD EX-U	Equity	Large-cap	Blend	N.A.	International	N.A.	N.A.	35702.117	0.08	23.13	N
+VGK	VANGUARD FTSE EUROPE ETF	Equity	Large-cap	Blend	N.A.	European Region	N.A.	N.A.	19245.125	0.11	26.99	N
+MCHI	ISHARES MSCI CHINA ETF	Equity	Large-cap	Blend	N.A.	China	N.A.	N.A.	7954.51	0.58	47.91	N
+BBCA	JPMORGAN BETABUILDERS CANADA	Equity	Broad Market	Blend	N.A.	Canada	N.A.	N.A.	6107.155	0.19	23.16	N
+EWZ	ISHARES MSCI BRAZIL ETF	Equity	Large-cap	Blend	N.A.	Brazil	N.A.	N.A.	5300.576	0.58	28.44	N
+INDA	ISHARES MSCI INDIA ETF	Equity	Broad Market	Blend	N.A.	India	N.A.	N.A.	4889.417	0.68	16.38	N
+EWT	ISHARES MSCI TAIWAN ETF	Equity	Broad Market	Blend	N.A.	Taiwan	N.A.	N.A.	4416.63	0.58	34.25	N
+EWA	ISHARES MSCI AUSTRALIA ETF	Equity	Large-cap	Blend	N.A.	Australia	N.A.	N.A.	2209.595	0.5	29.36	N
+EWW	ISHARES MSCI MEXICO ETF	Equity	Broad Market	Blend	N.A.	Mexico	N.A.	N.A.	1614.605	0.5	26.85	N
